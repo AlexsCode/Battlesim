@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/jeremy-thomas-background-image.jpg</file>
+    </qresource>
+    <qresource prefix="/textvalues">
+        <file>textvalues/shipconfigs.txt</file>
+        <file>textvalues/fossa.txt</file>
+        <file>textvalues/lightbringer.txt</file>
+    </qresource>
+</RCC>
